@@ -1,0 +1,161 @@
+header {
+	position: absolute;
+	background-color: #ffffff;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100px;
+	padding: 0px;
+	border-bottom: 5px solid #cccccc;
+}
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	padding: 30px;
+	text-align: justify;
+}
+
+.topLinks {
+	position: absolute;
+	left: 850px;
+	top: 50px;
+	text-decoration: none;
+}
+
+.pageHead {
+	padding: 10px;
+	margin: 10px;
+}
+
+.largeLine {
+	width: 600px;
+}
+
+.myName {
+	position: absolute;
+	left: 100px;
+	top: 10px;
+	width: 250px;
+	height: 50px;
+	background-color: #4aaaa5;
+	padding: 20px;
+	text-align: center;	
+}
+
+.leftSection {
+	width:650px;
+	position: absolute;
+	left: 100px;
+	top: 140px;
+}
+
+.rightSection {
+	width: 225px;
+	height: 150px;
+	position: absolute;
+	left: 700px;
+	top: 0px;
+	padding: 20px;
+	text-align: center;
+}
+
+.smallLine {
+	width:200px;
+}
+
+.colors {
+	background-color: white;
+}
+
+.text {
+	color: black;
+
+}
+
+.icons {
+	float: left;
+	margin-left: 20px;
+	height: 50px;
+	width: 50px;
+}
+
+form {
+	position: relative;
+	left: 30px;
+	top: 10px;
+}
+
+footer {
+	position: absolute;
+	background-color: #666666;
+	left: -10px;
+	top: 90%;
+	text-align: center;
+	width: 100%;
+	height: 60px;
+	padding: 40px;
+	border-top: 10px solid #4aaaa5;
+}
+
+.links {
+	text-decoration: none;
+}
+
+.image {
+	float: left;
+}
+
+.fieldNames {
+	padding: 0px;
+	text-align: left;
+}
+
+.largeBox {
+	width: 550px;
+	height: 250px;
+}
+
+.smallBox {
+	width: 550px;
+	height: 30px;
+}
+
+.portfolioImages {
+	max-width: 220px;
+	height: 150px;
+	border: 0px;
+}
+
+.textOver {
+	position: absolute;
+	float: left;
+	top: 100px;
+	left: 0px;
+	right: 0px;
+	width: 200px;
+	padding: 5;
+	color: #ffffff;
+	font-size: 22px;
+	background: #4aaaa5
+}
+
+.imageDiv {
+ 	text-align: center;
+	padding-top: 10px;
+	position: relative;
+	width: 200px;
+	margin-left: 20px;
+	margin-right: 20px;
+	float: left;
+}
